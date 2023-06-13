@@ -5,10 +5,12 @@ on:
     branches: [ "main" ]
     paths:
       - '**.go'
+      - '**.m3u'
   pull_request:
     branches: [ "main" ]
     paths:
       - '**.go'
+      - '**.m3u'
 
 env:
   APP_NAME: allinone
