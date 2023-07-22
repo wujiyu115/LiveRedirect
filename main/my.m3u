@@ -11,8 +11,10 @@ https://live.caddy.bestnewbee.com:5002/huya/310112?line=first
 https://live.caddy.bestnewbee.com:5002/bilibili/13?line=first
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/8fe3d88493456719ea40189bdbe89b5a270eb57c.jpg" group-title="DOTA2", DOTA2官方2
 https://live.caddy.bestnewbee.com:5002/bilibili/14?line=first
-#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/8fe3d88493456719ea40189bdbe89b5a270eb57c.jpg" group-title="DOTA2", AME
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/5585da1790a0129b37cbf2bfd0d0d2511a6241cd.jpg" group-title="DOTA2", AME
 https://live.caddy.bestnewbee.com:5002/bilibili/25836285?line=first
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live/31c56104d4640b059999f24f1efaef7b6a2029f6.png" group-title="DOTA2", DC
+https://live.caddy.bestnewbee.com:5002/bilibili/888?line=first
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201702/05/20/c11aca7afd581a400ed210309ab81b66_middle.jpg" group-title="DOTA2",龚建ZSMJ
 https://live.caddy.bestnewbee.com:5002/douyu/52876
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/6fa5859ec74b4ef19fbc735f0f2abc33_middle.jpg" group-title="DOTA2",刘嘉俊Sylar1
@@ -27,14 +29,10 @@ https://live.caddy.bestnewbee.com:5002/douyu/312407
 https://live.caddy.bestnewbee.com:5002/bilibili/5558?line=first
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/badbf01f7ab943358bf78bcd9245305f_middle.jpg" group-title="CS:GO",玩机器丶Machine
 https://live.caddy.bestnewbee.com:5002/douyu/6979222
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/b09f848faac231214e8b333c4a3f01d6_middle.jpg" group-title="魔兽争霸",infi
-https://live.caddy.bestnewbee.com:5002/douyu/255865
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202005/7f3c1ca6c6ff4edcbf4803f701bf3fce_middle.jpg" group-title="热门游戏",野生小师妹
 https://live.caddy.bestnewbee.com:5002/douyu/314761
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/84616b06512c4e2bad81c37d8d3e3db8_middle.jpg" group-title="热门游戏",呆妹儿小霸王
 https://live.caddy.bestnewbee.com:5002/douyu/2947432
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/4f9161a46e054575aae6d6acf481975f_middle.jpg" group-title="颜值（横屏）",万万学姐丶
-https://live.caddy.bestnewbee.com:5002/douyu/6916090
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/024e3400d0d64fe486fb13d6fb4e8a6c_middle.jpg" group-title="舞蹈",Nice丶奶思丶
 https://live.caddy.bestnewbee.com:5002/douyu/10071735
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202202/0fd3b7fa671e470cab0b522deae2ab22_middle.jpg" group-title="舞蹈",青台miss
@@ -49,3 +47,5 @@ https://live.caddy.bestnewbee.com:5002/douyu/15555
 https://live.caddy.bestnewbee.com:5002/bilibili/25625666
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live/31c56104d4640b059999f24f1efaef7b6a2029f6.png" group-title="户外",范儿骑行地球
 https://live.caddy.bestnewbee.com:5002/bilibili/27643253
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202207/4f9161a46e054575aae6d6acf481975f_middle.jpg" group-title="舞蹈",万万学姐
+https://live.caddy.bestnewbee.com:5002/douyu/6916090
