@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/35/e1c8ac855f5dc0f1fd292234d8b706_180_135.jpg" group-title="DOTA2", Maybe
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/10/246baaea7d85dcd83f31f221f3221d_180_135.jpg" group-title="DOTA2", Maybe
 https://live.caddy.bestnewbee.com:5002/huya/24866799?line=first
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/7c/1bad570ccab5732e7962853248aa59_180_135.jpg" group-title="DOTA2", 烈烈风中
 https://live.caddy.bestnewbee.com:5002/huya/123888?line=first
-#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/8fe3d88493456719ea40189bdbe89b5a270eb57c.jpg" group-title="DOTA2", DOTA2官方1
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1062/18/9a99674f68799055bb4f112ef806fd_180_135.jpg" group-title="DOTA2", rotk
+https://live.caddy.bestnewbee.com:5002/huya/741988?line=first
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/6c/410d48c9eb48421dd85dea73bc3656_180_135.jpg" group-title="DOTA2", sdn
+https://live.caddy.bestnewbee.com:5002/huya/310112?line=first
+#EXTINF:-1 tvg-logo="http://i2.hdslb.com/bfs/face/9fd7c45dc369330954da59844fecfd8f21e35e65.jpg" group-title="DOTA2", DOTA2官方1
 https://live.caddy.bestnewbee.com:5002/bilibili/13?line=first
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/8fe3d88493456719ea40189bdbe89b5a270eb57c.jpg" group-title="DOTA2", DOTA2官方2
 https://live.caddy.bestnewbee.com:5002/bilibili/14?line=first
@@ -19,8 +23,8 @@ https://live.caddy.bestnewbee.com:5002/douyu/7718843
 https://live.caddy.bestnewbee.com:5002/douyu/331437
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202104/8ccea5eb153d458a9d79a954598dbf6e_middle.jpg" group-title="DOTA2",王老狗
 https://live.caddy.bestnewbee.com:5002/douyu/312407
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/ce5ff2c976814872ad386e34f8baf8b5_middle.jpg" group-title="永劫无间",三酒OuO
-https://live.caddy.bestnewbee.com:5002/douyu/2421040
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live/31c56104d4640b059999f24f1efaef7b6a2029f6.png" group-title="DOTA2", longdd黄翔
+https://live.caddy.bestnewbee.com:5002/bilibili/5558?line=first
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201905/badbf01f7ab943358bf78bcd9245305f_middle.jpg" group-title="CS:GO",玩机器丶Machine
 https://live.caddy.bestnewbee.com:5002/douyu/6979222
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/b09f848faac231214e8b333c4a3f01d6_middle.jpg" group-title="魔兽争霸",infi
@@ -41,3 +45,7 @@ https://live.caddy.bestnewbee.com:5002/douyu/664668
 https://live.caddy.bestnewbee.com:5002/douyu/16616
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/724e69ccbd0847d9bd8379329d7f565d_middle.jpg" group-title="DOTA2",果冻
 https://live.caddy.bestnewbee.com:5002/douyu/15555
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/76d2e5de343fcdfe33721c18379ac8c7dffbd2ea.jpg" group-title="舞蹈",Rose挺梨谱的
+https://live.caddy.bestnewbee.com:5002/bilibili/25625666
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/live/31c56104d4640b059999f24f1efaef7b6a2029f6.png" group-title="户外",范儿骑行地球
+https://live.caddy.bestnewbee.com:5002/bilibili/27643253
