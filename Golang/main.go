@@ -1,5 +1,5 @@
 // Package Golang
-// @Time:2023/08/23 11:30
+// @Time:2024/02/19 11:30
 // @File:main.go
 // @SoftWare:Goland
 // @Author:feiyang
@@ -184,7 +184,7 @@ func setupRouter(adurl string) *gin.Engine {
 
 func main() {
 	key := []byte("6354127897263145")
-	defstr, _ := base64.StdEncoding.DecodeString("Mf5ZVkSUHH5xC9fH2Sao+2LgjRfydmzMgHNrVYX4AcSoI0nktkV7z1jSU6nSihf7ny+PexV73YjDoEtG7qu+Cw==")
+	defstr, _ := base64.StdEncoding.DecodeString("NGrrC9lxtd9O7ezMt3Ux2ekGkOyBoF9ipw9yqKFuItF/MwEBuKVN7GFoMAtaISCb/ouyeQUklFlqsCqGYOZwBx54INVxoDeMgQuEWQqETsCfL497FXvdiMOgS0buq74L")
 	defurl, _ := openssl.AesECBDecrypt(defstr, key, openssl.PKCS7_PADDING)
 	r := setupRouter(string(defurl))
 	r.Run(":35455")

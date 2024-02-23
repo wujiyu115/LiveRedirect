@@ -99,6 +99,9 @@ func getUUID() int64 {
 
 func processAntiCode(antiCode string, uid int, streamName string) string {
 	q, _ := url.ParseQuery(antiCode)
+	q.Set("t", "100")
+	q.Set("ctype", "huya_live")
+	q.Set("wsTime", strconv.FormatInt(time.Now().Unix()+21600, 16))
 	q.Set("ver", "1")
 	q.Set("sv", "2110211124")
 	seqId := strconv.Itoa(uid + int(time.Now().UnixNano()/int64(time.Millisecond)))
